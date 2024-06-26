@@ -15,7 +15,7 @@ public class base {
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver2 = new EdgeDriver();
 		WebDriverManager.firefoxdriver().setup();
-		WebDriver driver = new FirefoxDriver();
+		WebDriver driver3 = new FirefoxDriver();
 		
 		
 	}
